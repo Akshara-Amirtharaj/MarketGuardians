@@ -1,0 +1,29 @@
+text,prediction,correct
+https://www.bbc.com/news/world,Real,1
+https://www.bbc.com/news/world,Real,1
+"Rumors suggest that the global markets are expected to experience a significant crash next week, triggered by panic selling due to geopolitical tensions. Analysts recommend pulling out of high-risk investments immediately",Fake,0
+"Tech giant XYZ Corp reported an impressive quarterly performance, beating analyst expectations with a 20% increase in profits. The stock surged by 8% during pre-market trading today",Fake,1
+"Authorities have uncovered a cryptocurrency fraud scheme involving $2 billion in investor funds. The founders of CryptoX, a new coin touted as the 'next Bitcoin,' have been arrested and charged with financial misconduct",Fake,1
+"Popular ride-hailing service Ridelink announced its plans to go public by the end of the year. The IPO is expected to be one of the largest tech offerings, with the company aiming for a $50 billion valuation.""",Fake,1
+"Experts believe that the U.S. Federal Reserve has secretly decided to reduce interest rates by 1.5% next month, which could result in a sudden market rally. However, the Fed has made no official announcement",Fake,0
+"Global tech leader Alpha Corp confirmed its acquisition of the cloud computing firm Cloudix for $8 billion, aiming to enhance its cloud infrastructure services and compete with rivals in the industry.",Fake,1
+"A genuine earnings report from Tesla caused positive stock movement, driven by high sales numbers and forecast-beating revenues. Authentic press releases like these, issued directly from companies or credible sources, often affect market dynamic",Fake,1
+"
+
+Searched 4 sites
+
+You can explore these financial news examples to test your prediction model with real and fake labels:
+
+Real News Example:
+
+A genuine earnings report from Tesla caused positive stock movement, driven by high sales numbers and forecast-beating revenues. Authentic press releases like these, issued directly from companies or credible sources, often affect market dynamics.
+Fake News Example:
+
+In 2022, a hoax press release announced that Tesla had acquired Lithium Corporation, causing the latter’s stock to spike 250%. The news turned out to be false, illustrating how fake news can temporarily inflate stock prices through sensational claim",Fake,0
+"Another authentic report involved a planned merger between large enterprises that followed official SEC filings and press conferences, driving stable stock price increases over time​
+YALE INSIGHTS
+.
+",Fake,1
+"A fabricated press release in 2016 claimed that the Vinci Group fired top executives for financial misconduct. Although Vinci denied the news promptly, the damage was done, and its stock price did not recover until much late",Fake,0
+https://corpgov.law.harvard.edu/,Fake,0
+https://my-life.lu/,Real,0
