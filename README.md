@@ -1,3 +1,4 @@
+---
 
 # Financial News Authenticity Predictor
 
@@ -58,3 +59,5 @@ The **Financial News Authenticity Predictor** aims to tackle misinformation in f
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
+
+---
